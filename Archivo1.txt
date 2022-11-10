@@ -1,2 +1,3 @@
 System.out.println("Hola");
-System.out.println("Pa ti mi cola");
+System.out.println("Pa");
+System.out.println("Como");
